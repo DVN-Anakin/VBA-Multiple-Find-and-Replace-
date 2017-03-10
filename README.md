@@ -9,7 +9,7 @@ So, imagine You have a website that You have created from scratch i.e. You are n
 
 Because I had the same problem, I tried to come up with solme solution. In my case, I was given an Excel database with the original strings and their translations. The database looks like this:
 
-![alt tag](https://github.com/DVN-Anakin/VBA-Multiple-Find-and-Replace-/excel-database.png)
+![alt tag](https://github.com/DVN-Anakin/VBA-Multiple-Find-and-Replace-/blob/master/excel-database.png)
 
 So, I have created a VBA macro to deal with this kind of issue. In the given Word document with your source code, It automatically goes through the code and finds the strings located in the left collumn of the database and replace them with their translations from the next collumn.
 
