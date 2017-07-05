@@ -2,7 +2,7 @@
 VBA Macro for finding multiple text strings in a given Word document and replacing them with the appropriate strings based on an Excel database.
 
 ----------------
-1. USING
+1. WHAT IS THAT FOR
 ----------------
 So, imagine You have a website that You have created from scratch i.e. You are not using any CMS (WP, Prestashop, Drupal, ...) whatsoever. Now, You want to create multiple language versions of your website. First solution that You can think of is obviously to duplicate those .html files and manually translate/rewrite the strings in the source code. This "solution" is surely logical however very laborious indeed - it would take so much of your time, especially if your website has a lot of source files to go through. Another solution is to just copy&paste the source code of each page into the Google translator. Of course, a setback is that both Google and Bing translators suck.
 
